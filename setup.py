@@ -24,7 +24,8 @@ def main():
             'shell',
             'setup',
             'photobooth',
-            'pibooth'
+            'pibooth',
+            'plugin'
         ],
         py_modules=['pibooth_shell_setup'],
         python_requires=">=3.6",
