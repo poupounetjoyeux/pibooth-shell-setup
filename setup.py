@@ -23,7 +23,8 @@ def main():
             'Raspberry Pi',
             'shell',
             'setup',
-            'photobooth'
+            'photobooth',
+            'pibooth'
         ],
         py_modules=['pibooth_shell_setup'],
         python_requires=">=3.6",
